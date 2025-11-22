@@ -1,0 +1,13 @@
+{
+  "args": {}, 
+  "data": "", 
+  "files": {}, 
+  "form": {}, 
+  "headers": {
+    "Accept": "*/*", 
+    "Host": "httpbin.org", 
+    "X-Amzn-Trace-Id": "Root=1-6921f067-5c036cff7e141ad82520b6ca"
+  }, 
+  "origin": "196.12.144.221", 
+  "url": "https://httpbin.org/delay/5"
+}
